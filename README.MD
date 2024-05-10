@@ -17,7 +17,7 @@ Selecione a língua a ser utilizada no sistema operacional.
 <img src="Língua.png">
 
 ## Passo 4 ##
-Confirme se a lígnua e o teclado estão corretos e selecione o local da instalação.
+Confirme se a língua e o teclado estão corretos e selecione o local da instalação.
 
 <img src="confirmação.png">
 
